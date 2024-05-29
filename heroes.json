@@ -23,6 +23,12 @@
       "description": "Превращаться в камень",
       "element": "earth",
       "id": 4
+    },
+    {
+      "name": "Ветер",
+      "description": "Дышу ветром",
+      "element": "wind",
+      "id": 5
     }
   ],
   "filters": [
