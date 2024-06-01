@@ -2,57 +2,56 @@
   "heroes": [
     {
       "id": 1,
-      "name": "Первый герой",
+      "name": "Герой огня",
       "description": "Первый герой в рейтинге!",
       "element": "fire"
     },
     {
       "id": 2,
-      "name": "Неизвестный герой",
+      "name": "Герой ветра",
       "description": "Скрывающийся в тени",
       "element": "wind"
     },
     {
       "id": 3,
-      "name": "Морской герой",
+      "name": "Герой воды",
       "description": "Как аквамен, но не из DC",
       "element": "water"
     },
     {
-      "name": "Камень",
+      "name": "Герой земли",
       "description": "Превращаться в камень",
       "element": "earth",
       "id": 4
-    },
-    {
-      "name": "Ветер",
-      "description": "Дышу ветром",
-      "element": "wind",
-      "id": 5
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
