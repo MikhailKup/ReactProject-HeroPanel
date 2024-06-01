@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactProject-HeroPanel/static/css/main.ef72dd1c.css",
+    "main.js": "/ReactProject-HeroPanel/static/js/main.8643dfc2.js",
+    "static/media/hero_bg.jpg": "/ReactProject-HeroPanel/static/media/hero_bg.0540b794b0424b67d780.jpg",
+    "index.html": "/ReactProject-HeroPanel/index.html",
+    "main.ef72dd1c.css.map": "/ReactProject-HeroPanel/static/css/main.ef72dd1c.css.map",
+    "main.8643dfc2.js.map": "/ReactProject-HeroPanel/static/js/main.8643dfc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef72dd1c.css",
+    "static/js/main.8643dfc2.js"
+  ]
+}
